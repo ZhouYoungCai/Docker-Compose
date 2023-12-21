@@ -31,7 +31,7 @@ Docker Compose is included in
 [Docker Desktop](https://www.docker.com/products/docker-desktop)
 for Windows and macOS.
 
-### Linux
+### Linux 
 
 You can download Docker Compose binaries from the
 [release page](https://github.com/docker/compose/releases) on this repository.
